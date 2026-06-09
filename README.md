@@ -1,11 +1,17 @@
 # zahraghulam750 
 # Hi 👋, I'm Zahra Batool
 
-### Machine Learning & AI Enthusiast
+#### 🚀 About Me
 
-- 🌱 Currently learning Machine Learning, Deep Learning & Generative AI
-- 💻 Working with Python, NumPy, Pandas, Scikit-Learn, TensorFlow
-- 🚀 Building AI and ML Projects
+- 🎓 BS Computer Science (BSCS) Student
+- 🌱 Currently learning Machine Learning, Deep Learning, Generative AI, and Advanced Web Development
+- 💻 Working with Python, JavaScript, React.js, Next.js, FastAPI, Node.js, and Express.js
+- 🤖 Building AI, Machine Learning, and Data Science Projects
+- 📊 Experienced with NumPy, Pandas, Scikit-Learn, TensorFlow, and Matplotlib
+- 🗄️ Working with MySQL, MongoDB, Firebase, and Microsoft SQL Server
+- 📱 Interested in Android Development and REST API Development
+- 🚀 Passionate about creating responsive web applications and intelligent AI-powered solutions
+- 📚 Continuously learning new technologies and improving problem-solving skills
 - 📫 Reach me on GitHub
 
 ## 🛠 Tech Stack
@@ -36,11 +42,16 @@
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![REST API](https://img.shields.io/badge/REST_API-02569B?style=for-the-badge)
 
+## 🌐 Connect With Me
+
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/zahraghulam)
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/zahra-batool-29a96a3b1/)
+
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:zahraghulam@gmail.com)
+
+
 ## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=zahraghulam&show_icons=true&theme=radical)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=zahraghulam&layout=compact&theme=radical)
 
 ## 🔥 Projects
 
